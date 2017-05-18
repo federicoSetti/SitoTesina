@@ -1,11 +1,11 @@
 {
-  "name": "sito-statico",
+  "name": "SitoTesina",
   "version": "0.0.0",
-  "description": "scaffolding di sito statico con jade",
+  "description": "sito statico per la tesina",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Giovanni Bruno",
+  "author": "Federico Setti",
   "license": "MIT",
   "dependencies": {
     "browser-sync": "^2.11.1",
